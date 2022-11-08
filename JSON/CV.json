@@ -1,0 +1,90 @@
+[
+    {
+		"type": "professional",
+		"heading": "Work Experience",
+		"data": [
+			{
+				"date": "2020/02 - 2020/08",
+				"role": "Clinical Research Associate",
+				"Company": "CTC AB",
+                "Description":"My role was to be the main point of contact between clients, clinics and other parties participating in the study"
+			},
+			{
+				"date": "2017/06 - 2020/01",
+				"role": "Project Assistant",
+				"Company": "PPD Scandinavia AB",
+                "Description":"I mainly provided administrative support to the Clinical Research Associates, maintaining the clinical trial master file and distributing study material to the clinics."
+			},
+            {
+				"date": "2014/06 - 2014/08",
+				"role": "Logistics Controller",
+				"Company": "Coop Sverige AB",
+                "Description":"Worked with collecting and organizing orders for grocery store chains."
+			}
+		]
+	},
+    {
+        "type": "school",
+		"heading": "Education",
+		"data":[
+            {
+				"date": "2022/08 - ongoing",
+				"program": "Fullstackutvecklare .NET",
+				"institution": "Chas Academy",
+                "Description":"A 2 year programme with C# and the Microsoft .NET plattform as a vantage point. From there the students learn to work with databases, serverside programming, frontend and backend development."
+			},
+            {
+                "date": "2011/08 - 2016/06",
+				"program": "M.SC in Biomedicine",
+				"institution": "Karolinska Institute",
+                "Description":"The programme was focused on understanding disease mechanisms at a molecular level, particularly for the most common and widespread diseases, with the aim of developing future methods for the diagnosis and treatment of these diseases."
+
+            }
+        ]
+    },
+    {
+        "type": "language",
+		"heading": "Languages",
+		"data":[
+            {
+				"title": "Swedish",
+				"level": "Native"
+			},
+            {
+				"title": "English",
+				"level": "Fluent"
+			},
+            {
+				"title": "Somali",
+				"level": "Fluent"
+			}
+        ]
+    },
+    {
+        "type": "skills",
+		"heading": "Skills",
+		"data":[
+            {
+				"title": "C#"
+			},
+            {
+				"title": ".NET Core"
+			},
+            {
+				"title": "CSS"
+			},
+            {
+				"title": "Bootstrap"
+			},
+            {
+				"title": "Javascript"
+			},
+            {
+				"title": "SQL server"
+			},
+            {
+				"title": "GIT"
+			}
+        ]
+    }
+]
