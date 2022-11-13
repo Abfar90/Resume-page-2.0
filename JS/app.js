@@ -1,4 +1,4 @@
-const url = "../JSON/CV.json";
+const url = "./JSON/CV.json";
 
 async function getCV() {
     let response = await fetch(url);
