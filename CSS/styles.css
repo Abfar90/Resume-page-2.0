@@ -3,6 +3,8 @@
 	src: url(../fonts/Calligraphy.otf);
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Permanent+Marker&display=swap');
+
 .navigation{
 	background-color: black;
 	overflow: hidden;
@@ -201,18 +203,17 @@ html {
 	margin-right: 50px;
 }
 
-/*
-.languages .lang{
-	table-layout: fixed;
-	width: 110%;
-	border-collapse: collapse;
+.container-pb .about{
+	justify-content: center;
+	text-align: center;
 }
-/*
-.skills{
-	padding: 50px;
-	background-color: #f5f4f5;
-	margin: 10px;
-	grid-column-start: 3;
-	grid-column-end: 3;
+
+.container-pb .about a{
+	font-family: 'Lobster', cursive;
+	font-size: 20px;
 }
-*/
+
+.container-pb .about img{
+	width: 300px;
+	padding: 1em;
+}
